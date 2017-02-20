@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485821916 source:c:\users\l\documents\hacks\logger\keylogger\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<winuser.h>
+	<fstream>
+
